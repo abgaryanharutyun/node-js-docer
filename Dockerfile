@@ -1,1 +1,1 @@
-FROM quay.io/aptible/nodejs:8.2
+FROM quay.io/aptible/nodejs:v8.2.x
