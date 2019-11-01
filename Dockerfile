@@ -6,7 +6,7 @@ RUN apt-get -y update && \
 RUN npm install pm2 -g
 RUN npm install -g lerna
 RUN npm install -g npm-run-all
-RUN npm install -g yarn@1.19.1
+# RUN npm install -g yarn@1.19.1
 
 
 
