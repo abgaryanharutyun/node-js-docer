@@ -1,4 +1,4 @@
-FROM node:10
+FROM node:10.16.1
 RUN apt-get -y update && \
     apt-get install -y --no-install-recommends \
     curl
